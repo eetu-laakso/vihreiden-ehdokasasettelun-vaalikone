@@ -28,6 +28,8 @@ site; every candidate-listing view links out to them. The URL lives in
 
 ## Running
 
+Node 24 (the version the deploy workflow builds with).
+
 ```bash
 npm install
 npm run dev
@@ -138,6 +140,12 @@ to Finnish, then to whatever is present.
 Pushing to `main` builds and publishes to GitHub Pages via
 `.github/workflows/deploy.yml`. Enable it once under **Settings → Pages → Source → GitHub
 Actions**.
+
+The workflow names Node twice and the two are unrelated: `node-version: 24` is the Node that
+builds the site, while the major version on each `uses:` line determines which Node runtime
+the actions themselves run in. GitHub removed Node 20 from the runners on 2026-09-16, so the
+action majors are pinned at checkout@v7, setup-node@v7, upload-pages-artifact@v5 and
+deploy-pages@v5. Do not downgrade them.
 
 `vite.config.ts` sets `base: './'`, so the same build works from a user page, a project
 page under `/repo-name/`, or a local `dist` preview without hardcoding a repository name.
