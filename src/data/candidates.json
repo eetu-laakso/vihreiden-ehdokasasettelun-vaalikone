@@ -1,0 +1,416 @@
+[
+  {
+    "id": "heidi-aaltonen",
+    "name": "Heidi Aaltonen",
+    "sortName": "Aaltonen Heidi",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "veera-granroth",
+    "name": "Veera Granroth",
+    "sortName": "Granroth Veera",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "leena-haanpaa",
+    "name": "Leena Haanpää",
+    "sortName": "Haanpää Leena",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "kirsi-helin",
+    "name": "Kirsi Helin",
+    "sortName": "Helin Kirsi",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "eelin-hoffstrom-cagiran",
+    "name": "Eelin Hoffström-Cagiran",
+    "sortName": "Hoffström-Cagiran Eelin",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "mimmi-kamppi-opacic",
+    "name": "Mimmi Kamppi-Opacic",
+    "sortName": "Kamppi-Opacic Mimmi",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "samuli-koivulahti",
+    "name": "Samuli Koivulahti",
+    "sortName": "Koivulahti Samuli",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "arttu-laitinen",
+    "name": "Arttu Laitinen",
+    "sortName": "Laitinen Arttu",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "essi-lindberg",
+    "name": "Essi Lindberg",
+    "sortName": "Lindberg Essi",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "joonas-miiluniemi",
+    "name": "Joonas Miiluniemi",
+    "sortName": "Miiluniemi Joonas",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "petteri-makitalo",
+    "name": "Petteri Mäkitalo",
+    "sortName": "Mäkitalo Petteri",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "selina-nera",
+    "name": "Selinä Nera",
+    "sortName": "Nera Selinä",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "konsta-nylander",
+    "name": "Konsta Nylander",
+    "sortName": "Nylander Konsta",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "saija-porramo",
+    "name": "Saija Porramo",
+    "sortName": "Porramo Saija",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "maria-rantanen",
+    "name": "Maria Rantanen",
+    "sortName": "Rantanen Maria",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "niina-ratilainen",
+    "name": "Niina Ratilainen",
+    "sortName": "Ratilainen Niina",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "aino-ronka",
+    "name": "Aino Rönkä",
+    "sortName": "Rönkä Aino",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "kari-saarinen",
+    "name": "Kari Saarinen",
+    "sortName": "Saarinen Kari",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "susanna-sankala",
+    "name": "Susanna Sankala",
+    "sortName": "Sankala Susanna",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "amalia-skarp-ruonakoski",
+    "name": "Amalia Skarp Ruonakoski",
+    "sortName": "Skarp Ruonakoski Amalia",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "terhi-vorlund-wallenius",
+    "name": "Terhi Vörlund-Wallenius (sit.)",
+    "sortName": "Vörlund-Wallenius Terhi",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "aliisa-wahlsten",
+    "name": "Aliisa Wahlsten",
+    "sortName": "Wahlsten Aliisa",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  },
+  {
+    "id": "konsta-weber",
+    "name": "Konsta Weber",
+    "sortName": "Weber Konsta",
+    "constituency": "varsinais-suomi",
+    "answers": {
+      "q01": null,
+      "q02": null,
+      "q03": null,
+      "q04": null,
+      "q05": null,
+      "q06": null,
+      "q07": null,
+      "q08": null,
+      "q09": null,
+      "q10": null
+    }
+  }
+]

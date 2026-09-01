@@ -1,0 +1,111 @@
+/* Design tokens and element defaults. Component styling lives in App.css. */
+
+:root {
+  /* Green Party palette placeholder — swap for the official brand values. */
+  --green-900: #0b3d2c;
+  --green-700: #10614a;
+  --green-500: #1f9d63;
+  --green-300: #7fd0a4;
+  --green-100: #e2f4ea;
+
+  --ink: #14261e;
+  --ink-muted: #5a6b62;
+  --line: #d8e2dc;
+  --surface: #ffffff;
+  --surface-sunken: #f4f8f5;
+  --bg: #fbfdfb;
+
+  /* One colour per answer value, ordered disagree -> agree. */
+  --answer-1: #c4553d;
+  --answer-2: #e0996b;
+  --answer-3: #7fc292;
+  --answer-4: #1f8a5b;
+  --answer-none: #cbd5cf;
+
+  --radius: 12px;
+  --radius-sm: 8px;
+  --shadow: 0 1px 2px rgb(20 38 30 / 6%), 0 8px 24px rgb(20 38 30 / 6%);
+  --focus: 0 0 0 3px rgb(31 157 99 / 45%);
+
+  --font: 'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif;
+
+  color-scheme: light;
+  font-family: var(--font);
+  line-height: 1.55;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #e8f1eb;
+    --ink-muted: #a3b5ac;
+    --line: #2a3a33;
+    --surface: #16201b;
+    --surface-sunken: #111a15;
+    --bg: #0d1512;
+    --green-100: #16302a;
+    --answer-none: #3a4a43;
+    --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 8px 24px rgb(0 0 0 / 30%);
+
+    color-scheme: dark;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+  margin: 0 0 0.5em;
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: clamp(1.75rem, 1.2rem + 2vw, 2.6rem);
+}
+
+h2 {
+  font-size: clamp(1.3rem, 1.1rem + 0.8vw, 1.7rem);
+}
+
+p {
+  margin: 0 0 1em;
+}
+
+a {
+  color: var(--green-700);
+}
+
+@media (prefers-color-scheme: dark) {
+  a {
+    color: var(--green-300);
+  }
+}
+
+:focus-visible {
+  outline: none;
+  box-shadow: var(--focus);
+  border-radius: var(--radius-sm);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
