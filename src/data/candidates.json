@@ -113,17 +113,62 @@
     "sortName": "Koivulahti Samuli",
     "constituency": "varsinais-suomi",
     "answers": {
-      "q01": null,
-      "q02": null,
-      "q03": null,
-      "q04": null,
-      "q05": null,
-      "q06": null,
-      "q07": null,
-      "q08": null,
-      "q09": null,
-      "q10": null
-    }
+      "q01": 2,
+      "q02": 3,
+      "q03": 4,
+      "q04": 3,
+      "q05": 1,
+      "q06": 3,
+      "q07": 3,
+      "q08": 2,
+      "q09": 2,
+      "q10": 3
+    },
+    "comments": {
+      "q01": {
+        "fi": "Valtion suorat tuet tulee ohjata kustannustehokkaasti nopeisiin päästövähennyksiin tuulivoima, aurinko ja akkuteknologia tuottavat tuloksia jo tänään. Pienydinvoimalla on roolinsa puhtaassa siirtymässä ja kaukolämmössä, mutta sen kehitystä tulee vauhdittaa luvitusta sujuvoittamalla ja sääntelyä purkamalla, ei muita ratkaisuja syrjäyttävillä tuilla."
+      },
+      "q02": {
+        "fi": "Maapallon kantokyky asettaa rajat neitseellisten luonnonvarojen käytölle. Materiaalisen kulutuksen vähentäminen ei siis ole valinta, vaan pakko. Se ei kuitenkaan tarkoita kurjistumista: talouskasvun painopiste on siirrettävä kiertotalouteen, aineettomiin palveluihin ja kulttuuriin, joissa arvoa luodaan ilman luonnonvarojen hupenemista."
+      },
+      "q03": {
+        "fi": "Vihreiden pitää olla pragmaattinen uudistuspuolue, joka kykenee yhteistyöhön yli blokkirajojen. Jos saamme neuvoteltua hallitusohjelmaan kunnianhimoiset ilmasto- ja luontotoimet sekä reilun, yrittäjyystaitoisen talouslinjan, hallitusvastuuta ei tule pakoilla – olipa pääministeripuolue mikä tahansa."
+      },
+      "q04": {
+        "fi": "Ylisukupolvinen vastuu koskee myös valtiontaloutta, emmekä voi maksattaa tämän päivän syömävelkaa lapsillamme. Vihreitä investointeja on vauhditettava ensisijaisesti karsimalla haitallisia yritystukia, purkamalla normeja ja luomalla houkutteleva investointiympäristö yksityiselle pääomalle, ei pelkällä julkisella velkarahalla."
+      },
+      "q05": {
+        "fi": "Miten autoriippuvaisista kehyskunnista saadaan vähemmän autoriippuvaisia? Kasvattamalla niiden elinvoimaa ja toimintoja, sekä takaamalla nopeat raide- ja muut yhteydet isompiin paikkoihin. Uskon saarekemaisiin, tiiviisiin asuinkeskittymiin, joissa on myös suurin osa palveluista, jolloin niiden perässä ei ole pakko liikkua merta edemmäs kalaa."
+      },
+      "q06": {
+        "fi": "Saamelaiskäräjiä ei saa jyrätä, mutta neuvotteluja tulee jatkaa niin kauan että lopputulokseen päästään ja alkuperäiskansoille tulisi myös korvata tarvittaessa haittoja myös rahallisesti. Ajattelen kuitenkin myös, että isossa kuvassa kuitenkin valtio päättää mitä valtion rajojen sisällä tehdään ja valtion tehtävä on huomioida koko suomen kansan etu, samalla kun se huomioi, että myös vähemmistöjen etu huomioidaan. Tämä ei ole helppo kysymys ratkaistavaksi."
+      },
+      "q07": {
+        "fi": "Oikeusvaltioperiaate, perusoikeudet ja kansainväliset sopimukset ovat länsimaisen yhteiskunnan kova ydin. Rajaturvallisuudesta ja hybridivaikuttamisen torjunnasta on huolehdittava jämäkästi, mutta emme saa antaa autoritaarisen vastustajan murentaa oikeusvaltiomme perustuslaillisia periaatteita."
+      },
+      "q08": {
+        "fi": "Näitä ei oikein suoraan voi asettaa vastakkain. Nato-Suomen sotilaallisesta suorituskyvystä on pidettävä huoli, mutta turvallisuus on laaja kokonaisuus. Yhteiskunnan resilienssi ja kriisinkestävyys murenevat, jos sosiaalinen eheys ja mielenterveyspalvelut vaarannetaan tai ilmastokriisin torjunnasta tingitään."
+      },
+      "q09": {
+        "fi": "Miksi vain nämä kaksi vaihtoehtoa? Ekologinen, sosiaalinen ja taloudellinen kestävyys kulkevat kaikki käsi kädessä, ja on vaikea toteuttaa kahta ilman kolmatta. Mielestäni vihreiden tulisi profiloitua entistä enemmän pragmaattisissa asiakysymyksissä, jotka ovat lähellä tavallista tallaajaa. Pitää puhutella myös kansan syviä rivejä."
+      },
+      "q10": {
+        "fi": "Ruokajärjestelmän murros kohti kasvispainotteisuutta on välttämätön, ja tukijärjestelmän tulee ohjata siihen. Siirtymän on kuitenkin tapahduttava hallitusti ja viljelijöiden kanssa yhteistyössä. Emme voi ajaa kotimaista ruoantuotantoa hallitsemattomaan ahdinkoon liian nopeasti."
+      }
+    },
+    "age": 43,
+    "role": {
+      "fi": "Yksinyrittäjä"
+    },
+    "bio": {
+      "fi": "Yrittäjä, kolmen lapsen isä ja sanaseppä Turusta. Tuon päätöksentekoon yrittäjän realismia, ylisukupolvista perspektiiviä sekä näkemystä reilusta markkinataloudesta ja kulttuurin merkityksestä."
+    },
+    "links": [
+      {
+        "label": "samulikoivulahti.fi/politiikka.html",
+        "url": "https://samulikoivulahti.fi/politiikka.html"
+      }
+    ]
   },
   {
     "id": "arttu-laitinen",
@@ -365,17 +410,53 @@
     "sortName": "Vörlund-Wallenius Terhi",
     "constituency": "varsinais-suomi",
     "answers": {
-      "q01": null,
-      "q02": null,
-      "q03": null,
-      "q04": null,
-      "q05": null,
-      "q06": null,
-      "q07": null,
-      "q08": null,
-      "q09": null,
-      "q10": null
-    }
+      "q01": 2,
+      "q02": 3,
+      "q03": 2,
+      "q04": 2,
+      "q05": 2,
+      "q06": 2,
+      "q07": 3,
+      "q08": 3,
+      "q09": 1,
+      "q10": 2
+    },
+    "comments": {
+      "q03": {
+        "fi": "On vaikea nähdä, että kokoomuksen tällä hetkellä suorastaan vaarallisen oikealla oleva linja muuttuisi niin, että voisimme olla samassa hallituksessa."
+      },
+      "q04": {
+        "fi": "Investoinnit tuovat myös lisää tuloja."
+      },
+      "q05": {
+        "fi": "Kaupunkien viheralueiden säilyttäminen on hyvinvoinnille tärkeää."
+      },
+      "q08": {
+        "fi": "Tämä kysymys on mahdoton. Tässä maailmantilanteessa Suomen puolustuksesta huolehtiminen on välttämätöntä."
+      },
+      "q09": {
+        "fi": "Koko yhteiskunnan hyvinvointi on tärkeää."
+      },
+      "q10": {
+        "fi": "Molempia tarvitaan."
+      },
+      "q06": {
+        "fi": "Kaivostoiminta-alueet pitää pyrkiä löytämään yhteisymmärryksessä."
+      }
+    },
+    "age": 62,
+    "role": {
+      "fi": "Terveyskeskuslääkäri/Hälsocentralläkare, kaupunginvaltuutettu"
+    },
+    "bio": {
+      "fi": "Olen kokenut terveyskeskuslääkäri ja kunnallispoliitikko. Olen kaksikielinen ja alunperin Vaasasta kotoisin, mutta asunut Turussa vuodesta 1982. Perheeseeni kuuluvat mieheni Kaj ja Gebhard-kissa. Minulla on pitkä kokemus kunnallispolitiikasta: olen ollut kaupunginvaltuutettu vuodesta 1998 ja istunut useissa eri lautakunnissa. Tällä hetkellä olen Turun ruotsinkielisen lasten ja nuorten palveluiden lautakunnan puheenjohtaja. Lisäksi minulla on/on ollut luottamustoimia Folkhälsanissa, Åbo Svenska Teaternin hallituksessa, Turun konservatorion hallituksessa, Kuntaliitossa, Varsinais-Suomen liitossa ja Sydkustens landskapsförbundissa. Vapaa-ajalla laulan kuorossa, askartelen ja ompelen."
+    },
+    "links": [
+      {
+        "label": "www.facebook.com/terhivw",
+        "url": "https://www.facebook.com/terhivw"
+      }
+    ]
   },
   {
     "id": "aliisa-wahlsten",
